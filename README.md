@@ -18,7 +18,7 @@
 
 ![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.png)
 
-5. 1550 Employees eligible to mentor 
+4. 1550 Employees eligible to mentor 
 
 
 ## Summary
