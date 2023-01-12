@@ -15,6 +15,7 @@
 1. 72.5K employees meet the retirement critieria and will need to be refilled.
 2. Senior Engineers title is the most no.of employees to retire (36%)
 3. Senior Staff is the 2nd most employees to retire (34%)
+
 ![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.png)
 
 5. 1550 Employees eligible to mentor 
