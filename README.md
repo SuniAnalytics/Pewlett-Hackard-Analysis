@@ -31,4 +31,4 @@ Below are some of the insights:
 
 - 1549 eligible to mentor to next gen of employees. Each mentor might have to mentor ~48 employees. This can change if
 map retiring titles and mentor titles
-![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibilty.png)
+![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/Screenshot_Mentors%20Count.png)
