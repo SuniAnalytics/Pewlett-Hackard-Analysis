@@ -18,7 +18,7 @@
 
 ![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.png)
 
-4. 1550 Employees eligible to mentor. Below is the format of file wiht the list of employees to mentor
+4. 1549 Employees eligible to mentor. Below is the format of file wiht the list of employees to mentor
  
 ![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibilty.png)
 
@@ -27,8 +27,8 @@
 Below are some of the insights:
 
 - 72.5K employees meet the retirement critieria and will need to be refilled.
+![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/Screenshot_RetiringEmployee%20Count.png)
 
-
-- 1500 eligible to mentor to next gen of employees. Each mentor might have to mentor ~48 employees. This can change if
+- 1549 eligible to mentor to next gen of employees. Each mentor might have to mentor ~48 employees. This can change if
 map retiring titles and mentor titles
-
+![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibilty.png)
