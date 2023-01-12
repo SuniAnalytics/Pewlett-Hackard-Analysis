@@ -32,3 +32,7 @@ Below are some of the insights:
 - 1549 eligible to mentor to next gen of employees. Each mentor might have to mentor ~48 employees. This can change if
 map retiring titles and mentor titles
 ![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/Screenshot_Mentors%20Count.png)
+
+- Mentor to trainees ratio by title is very high for Senior Engineer role. 26K employees are retiring and 169 mentors are available, each mentor has to train 153 trainees to backfill
+
+![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/Screenshot_No.ofTraineesPerMentor.png)
