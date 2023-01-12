@@ -23,5 +23,12 @@
 ![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibilty.png)
 
 ## Summary
- - How many roles will need to be filled as silver tsunami begins to make impact
- - Are there enough qualified, retirment-ready employees in the departments to mentor the next gen of emp
+
+Below are some of the insights:
+
+- 72.5K employees meet the retirement critieria and will need to be refilled.
+
+
+- 1500 eligible to mentor to next gen of employees. Each mentor might have to mentor ~48 employees. This can change if
+map retiring titles and mentor titles
+
