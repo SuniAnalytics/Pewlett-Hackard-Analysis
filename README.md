@@ -4,7 +4,7 @@
 
     Purpose of the analysis is to analyze Pewlett Hackard's employees to understand the impact of "Silver Tsunami". 
     Using the SQL skills, provide insights into 
-      - How many employees are closing in on retirement age and thier titles
+      - How many employees are closing in on retirement age by job titles
       - Does the company have enough qualified retirement ready employees to run mentor program.
 
 ## Results
