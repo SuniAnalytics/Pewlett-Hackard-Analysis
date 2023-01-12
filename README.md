@@ -9,10 +9,11 @@
 
 ## Results
     Below is the quick result summary post analysis using SQL skills
-1. # of Retiring employees by title
-2. # of employees eligible for mentorship program
-3.
-4.
+1. 133,777 Employees meet the retirement critieria
+2. Retiring employee by retiring Titles
+3. % of employees by title
+4. 1550 Employees eligible to mentor 
+
 
 ## Summary
  - How many roles will need to be filled as silver tsunami begins to make impact
