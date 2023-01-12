@@ -19,7 +19,7 @@
 ![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.png)
 
 4. 1550 Employees eligible to mentor. Below is the format of file wiht the list of employees to mentor
-5. 
+ 
 ![](https://github.com/SuniAnalytics/Pewlett-Hackard-Analysis/blob/main/Resources/mentorship_eligibilty.png)
 
 ## Summary
