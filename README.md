@@ -9,7 +9,8 @@
 
 ## Results
     Below is the quick result summary post analysis using SQL skills
-1. 133,777 Employees meet the retirement critieria
+    
+1. 1500 Employees meet the retirement critieria
 2. Retiring employee by retiring Titles
 3. % of employees by title
 4. 1550 Employees eligible to mentor 
